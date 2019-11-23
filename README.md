@@ -1,2 +1,3 @@
 # Planet_test
-My kivy testing on GIT
+My kivy testing on GIT\
+Planet simulation
